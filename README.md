@@ -1,6 +1,4 @@
 # MC-青松 的个人主页
-<body background="background.jpg"
-style=" background-repeat:no-repeat ;
-background-size:100% 100%;
-background-attachment: fixed;"
->
+<script> 
+alert("这里是MC-青松的个人网站,官方只发抖音,其余均盗版! "); 
+</script> 
